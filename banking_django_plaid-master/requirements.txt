@@ -1,0 +1,9 @@
+amqp==5.0.1
+celery==5.0.1
+Django==2.2.6
+djangorestframework==3.10.3
+httplib2==0.9.2 
+plaid-python==7.0.0
+redis==3.5.3
+requests==2.24.0
+urllib3==1.25.11
